@@ -103,3 +103,28 @@ Educational Resources Page:
 <img src="https://github.com/vamsikrishnacr7/CleanWave/blob/main/Images/IMG-20240823-WA0001.jpg" width="200" height="500" />
 
 Admin can update the sanitary educational resources for the public,this page is completely useful in case of viral spread of any sanitary issue related disease.
+
+CONTTRIBUTIONS
+
+Back-end-->
+
+Vamsi : set-up firesbase , explained all cocept of firebase and what part of firebase we are gonna use in our system like firestore and storage, planned how all the backend should be. firebase we used in our project is setup by him.
+
+Jaswanth : implemented all the backend, like waht are the collections in firestore and the hierarchial architecture of firestore.
+Both Jaswanth and Vamsi coordinated with frontend devolopers to guide them create the pages in a way such that they are fit to the back-end architecture.
+
+Front-end-->
+
+Manoj : contributed to project by creating "location selection page", "select user page", "admin login page". co-ordinated with Jaswanth for understanding back-end and succesfully implementing location selecton, role selection, admin login page.
+
+Danish : contributed to project by creating "admin page", "public page", "upload resources page", "manage archives page", "archives page". co-ordinated with Vamsi for back-end.
+
+Sreekar :  created "complaint box"-in public domain, "manage complaints "-in admin domain, "contributions page"-in public page.  Co-ordinated with Jaswanth for understanding what kind of fields can be accessed. wrote README.md file..
+
+Santhosh : created "work progress page"-in public domain, "manage work progress page "-in admin domain, "manage comtributions page"-in public domain. Implemented  phone-pay page. co-ordinated with vamsi.
+
+Vamsi co-ordinated with all team mates for incorporating the message and call buttons.
+Jaswanth co-ordinated with all the team members for upload and pick documents.
+
+
+                                                                CLEAN WAVE
