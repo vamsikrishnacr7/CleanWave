@@ -15,15 +15,11 @@ const MyApp({Key? key}) : super(key: key);
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      //title: 'Water Sanitation App',
-      // theme: ThemeData(
-      //   primarySwatch: Colors.blue,
-      // ),
+      
+
       initialRoute: '/location_selection',
       routes: {
         '/location_selection': (context) => LocationSelectionPage(),
-       // '/admin_login': (context) => AdminLoginPage(),
-       //'/welcome':(context) => WelcomePage(),
       },
     );
   }
