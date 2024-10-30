@@ -12,7 +12,7 @@ class AchievementsViewPage extends StatefulWidget {
      AchievementsViewPage({required this.location});
 
   @override
-  _AchievementsViewPageState createState() => _AchievementsViewPageState();
+ _AchievementsViewPageState createState() => _AchievementsViewPageState();
 }
 
 class _AchievementsViewPageState extends State<AchievementsViewPage> {
@@ -127,7 +127,6 @@ class _AchievementsViewPageState extends State<AchievementsViewPage> {
     );
   }
 }
-
 class PdfViewerScreen extends StatelessWidget {
   final File file;
 
